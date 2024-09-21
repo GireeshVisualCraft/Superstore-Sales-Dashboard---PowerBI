@@ -1,5 +1,7 @@
 # Superstore Sales Performance Dashboard
 Superstore sales performance dashboard
+## Tools Used:
+- Microsoft Power BI
 ## Overview
 The Superstore Sales Performance Dashboard provides a comprehensive view of sales data, helping stakeholders to analyze performance trends, identify opportunities, and make informed decisions. This dashboard aggregates key metrics and visualizations to illustrate the health of the business.
 ## Key Metrics
@@ -50,6 +52,8 @@ The Total Sales by Customer Segments component is presented as a line and cluste
 The Top 3 Customers by Purchases component is displayed as three distinct boxes, each representing one of the top customers based on sales value. Each box includes a ranking medal to indicate the customer's position (1st, 2nd, or 3rd) alongside their total sales value, customer name, and customer code. This visual representation highlights the customers who have made the most purchases, providing valuable insights into key accounts and enabling targeted marketing and relationship management strategies.
 ### 16. Total Orders by Month
 The Total Orders by Month component is presented as a vertical bar chart that illustrates the number of orders placed each month. Each bar represents a specific month, with the height of the bar corresponding to the total number of orders received during that period. This visualization allows stakeholders to easily identify trends in order volume over time, highlighting seasonal patterns and helping to inform inventory management and sales strategies.
+### Conclusion
+The Superstore Sales Performance Dashboard provides a comprehensive view of key sales metrics, highlighting total sales of $733.22K and a profit margin of 12.74%. Regional and product analyses reveal top-performing areas and categories, guiding targeted marketing efforts. Customer segmentation insights enhance engagement strategies, while temporal trends help in forecasting and inventory management. Overall, the dashboard equips stakeholders with critical insights to drive informed decision-making and optimize business performance.
 ### 17. Year Slicer
 Each page of the dashboard includes a year slicer located in the top right corner. This interactive feature allows users to select a specific year, and all visualizations on the page will dynamically update to reflect data from that selected year. By filtering the information based on the chosen year, stakeholders can gain insights tailored to specific time frames, enabling more focused analysis and decision-making.
 
