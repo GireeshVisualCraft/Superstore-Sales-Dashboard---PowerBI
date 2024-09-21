@@ -5,8 +5,8 @@ Superstore sales performance dashboard
 ## Overview
 The Superstore Sales Performance Dashboard provides a comprehensive view of sales data, helping stakeholders to analyze performance trends, identify opportunities, and make informed decisions. This dashboard aggregates key metrics and visualizations to illustrate the health of the business.
 ## Key Metrics
-- **Total Sales:** $ 733.22K
-- **Total Profit:** $ 93.44K
+- **Total Sales:** $ 2297.20K
+- **Total Profit:** $ 286.40K
 - **Total profit Margin:** $ 12.74%
 ## Dashboard Components
 
