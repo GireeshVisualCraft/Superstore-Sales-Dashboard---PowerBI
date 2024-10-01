@@ -7,7 +7,7 @@ The Superstore Sales Performance Dashboard provides a comprehensive view of sale
 ## Key Metrics
 - **Total Sales:** $ 2297.20K
 - **Total Profit:** $ 286.40K
-- **Total profit Margin:** $ 12.74%
+- **Total profit Margin:** $ 12.47%
 ## Dashboard Components
 
 ![image](https://github.com/user-attachments/assets/d1d1fb7c-acc5-4071-bfab-94955d8021d3)
