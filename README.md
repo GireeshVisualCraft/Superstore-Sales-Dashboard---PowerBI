@@ -2,6 +2,7 @@
 Superstore sales performance dashboard
 ## Tools Used:
 - Microsoft Power BI
+- Open the file using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
 ## Overview
 The Superstore Sales Performance Dashboard provides a comprehensive view of sales data, helping stakeholders to analyze performance trends, identify opportunities, and make informed decisions. This dashboard aggregates key metrics and visualizations to illustrate the health of the business.
 ## Key Metrics
